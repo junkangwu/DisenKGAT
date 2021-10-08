@@ -8,7 +8,7 @@ Graph Attention Network</h4>
 
 
 <h2 align="center">
-  Overview of CompGCN
+  Overview of DisenKGAT
   <img align="center"  src="./fig/DisenKGAT_model.jpg" alt="...">
 </h2>
 
