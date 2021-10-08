@@ -15,7 +15,7 @@ Graph Attention Network</h4>
 <!-- ![Image](./overall_graph33_page-0001.jpg) -->
 ### Dependencies
 
-- Compatible with PyTorch 1.0 and Python 3.x.
+- Compatible with PyTorch 1.8 and Python 3.6.
 - Dependencies can be installed using `requirements.txt`.
 
 ### Dataset:
