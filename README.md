@@ -12,10 +12,10 @@ Graph Attention Network</h4>
   <img align="center"  src="./fig/DisenKGAT_model.jpg" alt="...">
 </h2>
 
-This is our PyTorch implementation for the paper:
+This is our PyTorch implementation for the paper DisenKGAT-2021CIKM:
 
 > Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Fuzheng Zhang, Wei Wu, Xiangnan He (2021) DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network
-[paper link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424). in CIKM2021.
+[paper link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424). In CIKM2021.
 
 
 <!-- ![Image](./overall_graph33_page-0001.jpg) -->
