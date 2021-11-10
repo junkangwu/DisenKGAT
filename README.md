@@ -12,6 +12,12 @@ Graph Attention Network</h4>
   <img align="center"  src="./fig/DisenKGAT_model.jpg" alt="...">
 </h2>
 
+This is our PyTorch implementation for the paper:
+
+> Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Fuzheng Zhang, Wei Wu, Xiangnan He (2021) DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network
+[paper link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424). in CIKM2021.
+
+
 <!-- ![Image](./overall_graph33_page-0001.jpg) -->
 ### Dependencies
 
@@ -87,6 +93,17 @@ Graph Attention Network</h4>
   python run.py -epoch 1500 -name InteractE_FB15k_K3_D200_club_b_mi_drop -mi_train -mi_drop
   ```
 
+### Citation
+If you want to use our codes in your research, please cite:
+```
+@inproceedings{wu2021disenkgat,
+  title={DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network},
+  author={Wu, Junkang and Shi, Wentao and Cao, Xuezhi and Chen, Jiawei and Lei, Wenqiang and Zhang, Fuzheng and Wu, Wei and He, Xiangnan},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  pages={2140--2149},
+  year={2021}
+}
+```
 
 ## Acknowledgement
 The project is built upon [COMPGCN](https://github.com/malllabiisc/CompGCN)
