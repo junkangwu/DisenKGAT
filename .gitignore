@@ -1,0 +1,6 @@
+*.log
+*.ckpt
+/log_pos
+/weights
+/scores
+/data
